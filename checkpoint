@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/project/emotion/model.ckpt"
+all_model_checkpoint_paths: "/home/project/emotion/model.ckpt"
